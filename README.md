@@ -1,6 +1,6 @@
 # OSYS3030 - Linux Network Appliance Documentation
 
-> **Student Name:** Jace's Alt  
+> **Student Name:** Milkmaq Jace's Alt  
 > **Student ID / VMID:** w0444779 / 104 
 > **Repository:** https://github.com/Milkmaq/osys3030-network-services-template  
 > **Instructor:** Matt Redmond  
