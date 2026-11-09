@@ -94,6 +94,6 @@ See [`AI_AUDIT.md`](./AI_AUDIT.md) for documentation on how these scripts were g
 
 ## 6. Peer Review Audit
 
-* **Audited Classmate:** [Classmate Name] ([GitHub Profile URL / Repo URL])
-* **Classmate Appliance Subnet:** `10.<PartnerID>.0.0/24`
+* **Audited Classmate:** Jace-Bernard https://github.com/Jace-Bernard/osys3030-network-services-template
+* **Classmate Appliance Subnet:** `10.104.0.0/24`
 * **Audit Summary:** [2–3 sentences summarizing your review of your peer's repository, configs, and recovery documentation].
