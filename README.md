@@ -96,4 +96,4 @@ See [`AI_AUDIT.md`](./AI_AUDIT.md) for documentation on how these scripts were g
 
 * **Audited Classmate:** Jace-Bernard https://github.com/Jace-Bernard/osys3030-network-services-template
 * **Classmate Appliance Subnet:** `10.104.0.0/24`
-* **Audit Summary:** [2–3 sentences summarizing your review of your peer's repository, configs, and recovery documentation].
+* **Audit Summary:** Most if not all of the doc and README files seem in check and I think done correctly.
