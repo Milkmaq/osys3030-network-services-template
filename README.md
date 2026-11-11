@@ -1,6 +1,6 @@
 # OSYS3030 - Linux Network Appliance Documentation
 
-> **Student Name:** Milkmaq Jace's Alt  
+> **Student Name:** Milkmaq, Jace's Alt  
 > **Student ID / VMID:** w0444779 / 104 
 > **Repository:** https://github.com/Milkmaq/osys3030-network-services-template  
 > **Instructor:** Matt Redmond  
@@ -96,4 +96,4 @@ See [`AI_AUDIT.md`](./AI_AUDIT.md) for documentation on how these scripts were g
 
 * **Audited Classmate:** Jace-Bernard https://github.com/Jace-Bernard/osys3030-network-services-template
 * **Classmate Appliance Subnet:** `10.104.0.0/24`
-* **Audit Summary:** Most if not all of the doc and README files seem in check and I think done correctly.
+* **Audit Summary:** Most, if not all of the doc and README files seem in check seems to have been done correctly. He seems to have all the files he needed to grab for DHCP, DNS, FW, Hardening & SCRIPS folders and maybe a few extra since the example scripts are still there in the folder. 
